@@ -46,7 +46,6 @@
 		BDC2D95828AAD00E00135418 = {
 			isa = PBXGroup;
 			children = (
-				BD82928328AD676C005BDFA0 /* checkListViewController.swift */,
 				BDC2D96328AAD00E00135418 /* Wave */,
 				BDC2D96228AAD00E00135418 /* Products */,
 			);
@@ -65,6 +64,7 @@
 			children = (
 				BDC2D96428AAD00E00135418 /* AppDelegate.swift */,
 				BDC2D97B28AAE22300135418 /* NoteViewController.swift */,
+				BD82928328AD676C005BDFA0 /* checkListViewController.swift */,
 				BDC2D96628AAD00E00135418 /* SceneDelegate.swift */,
 				BDC2D96828AAD00E00135418 /* ViewController.swift */,
 				BDC2D96A28AAD00E00135418 /* Main.storyboard */,
