@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD82928428AD676C005BDFA0 /* checkListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD82928328AD676C005BDFA0 /* checkListViewController.swift */; };
 		BDC2D96528AAD00E00135418 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC2D96428AAD00E00135418 /* AppDelegate.swift */; };
 		BDC2D96728AAD00E00135418 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC2D96628AAD00E00135418 /* SceneDelegate.swift */; };
 		BDC2D96928AAD00E00135418 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC2D96828AAD00E00135418 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BD82928328AD676C005BDFA0 /* checkListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = checkListViewController.swift; sourceTree = "<group>"; };
 		BDC2D96128AAD00E00135418 /* Wave.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Wave.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDC2D96428AAD00E00135418 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BDC2D96628AAD00E00135418 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -44,6 +46,7 @@
 		BDC2D95828AAD00E00135418 = {
 			isa = PBXGroup;
 			children = (
+				BD82928328AD676C005BDFA0 /* checkListViewController.swift */,
 				BDC2D96328AAD00E00135418 /* Wave */,
 				BDC2D96228AAD00E00135418 /* Products */,
 			);
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BDC2D96F28AAD00E00135418 /* Wave.xcdatamodeld in Sources */,
+				BD82928428AD676C005BDFA0 /* checkListViewController.swift in Sources */,
 				BDC2D96928AAD00E00135418 /* ViewController.swift in Sources */,
 				BDC2D96528AAD00E00135418 /* AppDelegate.swift in Sources */,
 				BDC2D97C28AAE22300135418 /* NoteViewController.swift in Sources */,
